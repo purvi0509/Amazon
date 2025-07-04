@@ -8,6 +8,12 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+<distributionManagement>
+    <repository>
+        <id>releases-repo</id>
+        <url>https://amigosbusinesscorp.com/?trk=public_post-text</url>
+    </repository>
+</distributionManagement>
 
     <artifactId>Amazon-Web</artifactId>
     <packaging>war</packaging>
